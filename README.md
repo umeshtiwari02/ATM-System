@@ -1,4 +1,4 @@
-# Bank-Management-System
+# ATM-System
 These are some screenshot of this project
 
 <tr>
